@@ -1,0 +1,14 @@
+.col {
+    margin-top: 2rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    width: 60rem;
+    align-content: center;
+    align-items: center;
+
+}
+
+p {
+    text-align: justify;
+   
+}
